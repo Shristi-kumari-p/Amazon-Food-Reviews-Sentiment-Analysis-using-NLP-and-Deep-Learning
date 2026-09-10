@@ -195,6 +195,25 @@ The text preprocessing pipeline includes:
 10. Preparing sequences for Deep Learning models
 
 ---
+## 🏆 Conclusion
+
+Among all the evaluated models, **LSTM achieved the best overall performance
+with 91% accuracy and a weighted F1-score of 0.92**.
+
+The results indicate that LSTM was able to capture sequential and contextual
+information from customer reviews effectively. Although the Dense Neural
+Network and Bidirectional LSTM achieved 90% accuracy, they slightly
+underperformed LSTM in terms of overall accuracy and weighted F1-score.
+
+The dataset contains significant class imbalance, with Class 3 having
+substantially more observations than the other classes. Therefore, accuracy
+was considered along with precision, recall, and F1-score when selecting the
+final model.
+
+**Final Model: LSTM**  
+**Final Accuracy: 91%**  
+**Weighted F1-Score: 0.92**
+
 
 ## 📁 Project Structure
 
