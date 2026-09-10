@@ -171,13 +171,11 @@ A final comparison is performed to determine which architecture provides the bes
 
 | Model                | Accuracy | Precision | Recall | F1-Score |
 | -------------------- | -------: | --------: | -----: | -------: |
-| Logistic Regression  |      TBD |       TBD |    TBD |      TBD |
-| Dense Neural Network |      TBD |       TBD |    TBD |      TBD |
-| Simple RNN           |      TBD |       TBD |    TBD |      TBD |
-| LSTM                 |      TBD |       TBD |    TBD |      TBD |
-| Bidirectional LSTM   |      TBD |       TBD |    TBD |      TBD |
-
-> **Note:** Replace `TBD` with the actual results after completing model training and evaluation.
+| Logistic Regression  |      88% |      0.74 |   0.67 |     0.70 |
+| Dense Neural Network |      90% |      0.74 |   0.79 |     0.75 |
+| Simple RNN           |      82% |      0.34 |   0.49 |     0.35 |
+| LSTM                 |      91% |      0.70 |   0.82 |     0.74 |
+| Bidirectional LSTM   |      90% |      0.74 |   0.77 |     0.75 |
 
 ---
 
