@@ -1,1 +1,11 @@
-
+NumPy       : 2.3.5
+Pandas      : 2.3.3
+Matplotlib  : 3.11.1
+Seaborn     : 0.13.2
+Scikit-learn: 1.9.0
+NLTK        : 3.9.2
+WordCloud   : 1.9.6
+TensorFlow  : 2.21.0
+Keras       : 3.15.0
+jupyter
+ipykernel
